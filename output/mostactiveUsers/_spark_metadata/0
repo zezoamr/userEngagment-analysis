@@ -1,0 +1,7 @@
+v1
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactiveUsers/part-00000-a9dbe117-0b67-44ed-b9ee-7f28c890124f-c000.csv","size":626770,"isDir":false,"modificationTime":1663848286708,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactiveUsers/part-00001-f294059d-54bd-4e08-93a0-50c57905350c-c000.csv","size":678206,"isDir":false,"modificationTime":1663848286720,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactiveUsers/part-00002-61114ee8-d7b7-4463-8ee2-8f30bc5fafc7-c000.csv","size":596772,"isDir":false,"modificationTime":1663848287449,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactiveUsers/part-00003-b070dfe3-cea9-493a-9a7e-8211acff5f92-c000.csv","size":635475,"isDir":false,"modificationTime":1663848287454,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactiveUsers/part-00004-6a3c8727-d8ad-40b6-9ec1-b379581bce85-c000.csv","size":590883,"isDir":false,"modificationTime":1663848287894,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactiveUsers/part-00005-91d0a464-b622-4d26-b081-e40b49c2943e-c000.csv","size":601193,"isDir":false,"modificationTime":1663848288192,"blockReplication":1,"blockSize":33554432,"action":"add"}

@@ -1,0 +1,3 @@
+v1
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactivePages/part-00000-ad5077dc-a5f5-4a96-924e-37d32eccd6ca-c000.csv","size":140,"isDir":false,"modificationTime":1663848292765,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/projects/kafka_userEngagment/output/mostactivePages/part-00001-42c79712-a0dd-4068-ad17-fdd63688e3ea-c000.csv","size":69,"isDir":false,"modificationTime":1663848292439,"blockReplication":1,"blockSize":33554432,"action":"add"}
